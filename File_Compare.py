@@ -14,7 +14,7 @@ import os
 
 #detele this line:
 w = 3
-
+v = 4
 
 def choosePath1():
     folderPath = tkFileDialog.askdirectory()
