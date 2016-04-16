@@ -3,6 +3,7 @@ contents of each folder and each item's size within the folder. If any folders/f
 are different or have a different size, their file path and name will be printed
 in the shell.
 """
+#TEST1
 
 
 from Tkinter import *
@@ -10,6 +11,9 @@ import tkFileDialog
 import tkMessageBox
 import os
 
+
+#detele this line:
+w = 3
 
 
 def choosePath1():
